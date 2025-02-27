@@ -28,17 +28,5 @@ npm start
 
 The application will open in your default browser at `http://localhost:3002`
 
-## 🖥 Screenshots
-- Login View
-<div align="center">
-  <img src="https://i.ibb.co.com/Wsx16Zy/image.png" alt="Login" width="1200"/>
-</div> <br>
-
-- Dashboard View
-<div align="center">
-  <img src="https://i.ibb.co.com/qDd7Hdy/image.png" alt="Dashboard" width="1200"/>
-</div> <br>
-
 ## 🤝 Acknowledgments
 - Thanks to all contributors who participated in this project
-- Special thanks to the Tailwind CSS team for their comprehensive component library#

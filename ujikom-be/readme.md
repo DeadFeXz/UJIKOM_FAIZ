@@ -97,9 +97,9 @@
 <br> -->
 
 
-- **Relasi Table**
 
-<img src="./image/image.png" />
+
+
 
 <br>
 <br>

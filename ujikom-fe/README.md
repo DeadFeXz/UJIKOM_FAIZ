@@ -1,27 +1,19 @@
-# UTS Frontend - Admin Joki
+ # UJIKOM Frontend - Landing Page
 
 ## 🛠 Technologies Used
 - React.js
-- Tailwind CSS
-- React Router for navigation
-- Axios for API integration
-- Node.js (runtime environment)
 
 ## 🚦 Getting Started
-
-### Prerequisites
-- Node.js (v14 or higher)
-- npm or yarn package manager
 
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/DeadFeXz/UTS-FAIZ-FE.git
+git clone https://github.com/DeadFeXz/UJIKOM_FAIZ/main/ujikom-fe/.git
 ```
 
 2. Navigate to project directory
 ```bash
-cd UTS-FAIZ-FE
+cd ujikom-fe
 ```
 
 3. Install dependencies
@@ -34,11 +26,7 @@ npm install
 npm start
 ```
 
-The application will open in your default browser at `http://localhost:3000`
-
-## LOGIN
-- Username : admin
-- Password : admin
+The application will open in your default browser at `http://localhost:3002`
 
 ## 🖥 Screenshots
 - Login View
